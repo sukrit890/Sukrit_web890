@@ -14,3 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
+# Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/0125-valid-palindrome) |
+# String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/0125-valid-palindrome) |
