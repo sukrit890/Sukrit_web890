@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
 # Stack
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sukrit890/Sukrit_web890/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 # String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sukrit890/Sukrit_web890/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
