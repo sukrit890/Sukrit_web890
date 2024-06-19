@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Greedy
@@ -125,8 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sukrit890/Sukrit_web890/tree/master/1904-second-largest-digit-in-a-string) |
 # Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
