@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sukrit890/Sukrit_web890/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sukrit890/Sukrit_web890/tree/master/0075-sort-colors) |
@@ -160,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
