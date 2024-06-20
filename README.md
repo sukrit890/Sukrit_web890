@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Greedy
 |  |
 | ------- |
@@ -192,3 +193,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
