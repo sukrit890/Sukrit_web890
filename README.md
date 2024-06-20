@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/sukrit890/Sukrit_web890/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sukrit890/Sukrit_web890/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0162-find-peak-element) |
