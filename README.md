@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
 # Greedy
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 # Prefix Sum
 |  |
 | ------- |
