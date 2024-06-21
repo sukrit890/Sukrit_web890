@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Tree
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Graph
 |  |
