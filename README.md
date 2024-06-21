@@ -57,18 +57,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sukrit890/Sukrit_web890/tree/master/1904-second-largest-digit-in-a-string) |
 # Binary Search
 |  |
