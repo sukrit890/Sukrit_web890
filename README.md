@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Breadth-First Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Tree
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sukrit890/Sukrit_web890/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 # Matrix
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Graph
 |  |
