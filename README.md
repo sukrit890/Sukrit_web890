@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Breadth-First Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Tree
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 # Matrix
 |  |
 | ------- |
@@ -198,3 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
