@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sukrit890/Sukrit_web890/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukrit890/Sukrit_web890/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sukrit890/Sukrit_web890/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
