@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Recursion
 |  |
 | ------- |
@@ -262,14 +263,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
