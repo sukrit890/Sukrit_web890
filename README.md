@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/sukrit890/Sukrit_web890/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/sukrit890/Sukrit_web890/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
@@ -235,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
 # Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
