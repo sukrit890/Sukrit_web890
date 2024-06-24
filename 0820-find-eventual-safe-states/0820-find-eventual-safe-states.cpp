@@ -1,42 +1,51 @@
 class Solution {
 public:
-    bool dfs(int node,vector<vector<int>>& adj,vector<int> &vis,vector<int> &Pathvis,vector<int> &check){
-            vis[node] = 1;
-            Pathvis[node] = 1;
-            check[node] = 0;
-            for(auto it : adj[node]){
-                if(!vis[it]){
-                    vis[it] = 1;
-                    if(dfs(it,adj,vis,Pathvis,check)==true){
-                        check[node] = 0;
-                        return true;
-                    }
-                }
-                else if(Pathvis[it]){
-                check[node] = 0;
-                    return true;
-                }
-                }
-                check[node] = 1;
-                Pathvis[node] = 0;
-                return false;
-    }
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int V = graph.size();
-        vector<int>vis(V,0);
-        vector<int>Pathvis(V,0);
-        vector<int>check(V,0);
-        vector<int> ans;
-        for(int i=0;i<V;i++){
-                if(!vis[i]){
-                    dfs(i,graph,vis,Pathvis,check);
-                }
-        }
-        for(int i=0;i<V;i++){
-            if(check[i]==1){
-                ans.push_back(i);
+
+
+    
+ vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        
+        int v = graph.size();
+        vector<int> indegree(v, 0);
+        queue<int> q;
+        vector<int> safe_nodes;
+
+        vector<int> revadj[v];
+
+        for(int i = 0;i<v;i++){
+            for(auto it : graph[i]){
+                revadj[it].push_back(i);
             }
         }
-        return ans;
+
+        for (int i = 0; i < v; i++) {
+            for (auto it : revadj[i]) {
+                indegree[it]++;
+            }
+        }
+
+        for (int i = 0; i < v; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            safe_nodes.push_back(node);
+
+            for (auto it : revadj[node]) {
+                indegree[it]--;
+                if (indegree[it] == 0)
+                    q.push(it);
+            }     
+        }
+
+        sort(safe_nodes.begin() , safe_nodes.end());
+
+        return safe_nodes; 
+        
+
     }
-};
+};         
