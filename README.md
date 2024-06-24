@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
+| [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 # Merge Sort
 |  |
 | ------- |
@@ -244,9 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 # Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sukrit890/Sukrit_web890/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
+# Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
