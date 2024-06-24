@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Merge Sort
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Prefix Sum
 |  |
 | ------- |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Matrix
 |  |
 | ------- |
@@ -240,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sukrit890/Sukrit_web890/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Graph
 |  |
