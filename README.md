@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sukrit890/Sukrit_web890/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sukrit890/Sukrit_web890/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 # Matrix
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sukrit890/Sukrit_web890/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sukrit890/Sukrit_web890/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Topological Sort
 |  |
@@ -280,3 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/sukrit890/Sukrit_web890/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sukrit890/Sukrit_web890/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+# Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/sukrit890/Sukrit_web890/tree/master/1706-min-cost-to-connect-all-points) |
