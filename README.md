@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0179-largest-number) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sukrit890/Sukrit_web890/tree/master/1904-second-largest-digit-in-a-string) |
 # Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sukrit890/Sukrit_web890/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/sukrit890/Sukrit_web890/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sukrit890/Sukrit_web890/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sukrit890/Sukrit_web890/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1904-second-largest-digit-in-a-string](https://github.com/sukrit890/Sukrit_web890/tree/master/1904-second-largest-digit-in-a-string) |
 # Binary Search
@@ -239,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sukrit890/Sukrit_web890/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sukrit890/Sukrit_web890/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sukrit890/Sukrit_web890/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/sukrit890/Sukrit_web890/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sukrit890/Sukrit_web890/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sukrit890/Sukrit_web890/tree/master/1442-number-of-operations-to-make-network-connected) |
