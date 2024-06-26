@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sukrit890/Sukrit_web890/tree/master/0232-implement-queue-using-stacks) |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
 # Simulation
 |  |
@@ -311,3 +312,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/sukrit890/Sukrit_web890/tree/master/1300-critical-connections-in-a-network) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sukrit890/Sukrit_web890/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sukrit890/Sukrit_web890/tree/master/0232-implement-queue-using-stacks) |
