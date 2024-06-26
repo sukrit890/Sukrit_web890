@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sukrit890/Sukrit_web890/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2109-find-array-given-subset-sums](https://github.com/sukrit890/Sukrit_web890/tree/master/2109-find-array-given-subset-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Greedy
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0948-sort-an-array) |
+| [2109-find-array-given-subset-sums](https://github.com/sukrit890/Sukrit_web890/tree/master/2109-find-array-given-subset-sums) |
 # Heap (Priority Queue)
 |  |
 | ------- |
