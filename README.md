@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/sukrit890/Sukrit_web890/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sukrit890/Sukrit_web890/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/sukrit890/Sukrit_web890/tree/master/1048-clumsy-factorial) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sukrit890/Sukrit_web890/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sukrit890/Sukrit_web890/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukrit890/Sukrit_web890/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/sukrit890/Sukrit_web890/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sukrit890/Sukrit_web890/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 # Tree
 |  |
