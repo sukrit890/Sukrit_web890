@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sukrit890/Sukrit_web890/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0179-largest-number) |
 | [0721-accounts-merge](https://github.com/sukrit890/Sukrit_web890/tree/master/0721-accounts-merge) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/sukrit890/Sukrit_web890/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sukrit890/Sukrit_web890/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukrit890/Sukrit_web890/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sukrit890/Sukrit_web890/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/sukrit890/Sukrit_web890/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sukrit890/Sukrit_web890/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sukrit890/Sukrit_web890/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sukrit890/Sukrit_web890/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sukrit890/Sukrit_web890/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
