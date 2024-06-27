@@ -176,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sukrit890/Sukrit_web890/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2109-find-array-given-subset-sums](https://github.com/sukrit890/Sukrit_web890/tree/master/2109-find-array-given-subset-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukrit890/Sukrit_web890/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2591-frog-jump-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/2591-frog-jump-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/2737-row-with-maximum-ones) |
 # Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0179-largest-number) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/sukrit890/Sukrit_web890/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2591-frog-jump-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/2591-frog-jump-ii) |
 # Sorting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sukrit890/Sukrit_web890/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sukrit890/Sukrit_web890/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/sukrit890/Sukrit_web890/tree/master/1753-path-with-minimum-effort) |
+| [2591-frog-jump-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/2591-frog-jump-ii) |
 # Prefix Sum
 |  |
 | ------- |
