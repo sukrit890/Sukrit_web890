@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sukrit890/Sukrit_web890/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/sukrit890/Sukrit_web890/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sukrit890/Sukrit_web890/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/sukrit890/Sukrit_web890/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
