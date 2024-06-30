@@ -1,27 +1,33 @@
 class Solution {
 public:
-    int f(int i, int j, string &s, string &t, vector<vector<int>> &dp)
-    {
-        // base
-        if(i == s.size() || j == t.size())
-        {
-            return 0;
+    int longestCommonSubsequence(string x, string y) {
+        int n=x.size(),m=y.size();
+        string s;
+        int dp[n+1][m+1];
+        for(int i=0;i<=n;i++)dp[i][0]=0;
+        for(int i=0;i<=m;i++)dp[0][i]=0;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(x[i-1]==y[j-1])dp[i][j]=1+dp[i-1][j-1];
+                else {
+                    dp[i][j]=max(dp[i][j-1],dp[i-1][j]);
+                }
+            }
         }
-        if(dp[i][j]!=-1)
-        {
-            return dp[i][j];
+        // for printing longest common subsequence
+        int i=n,j=m;
+        while(i>0 && j>0){    // if any of this i and j becomes 0 means one string is empty 
+            if(x[i-1]==y[j-1]){
+                s+=x[i-1];    //if character matches then add that to result string and move diagonally up
+                i--;j--;
+            }
+            else{
+                if(dp[i][j-1]>dp[i-1][j])j--;    // else find the max of up and right position of dp table and move accordingly to up or left
+                else i--;
+            }
         }
-        // trying
-        if(s[i] == t[j])
-        {
-            return dp[i][j] = 1+f(i+1, j+1, s, t, dp);
-        }
-        return dp[i][j] = max(f(i+1, j, s, t, dp), f(i, j+1, s, t, dp));
-    }
-    int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.size();
-        int m = text2.size();
-        vector<vector<int>> dp(n+1, vector<int>(m+1, -1));
-        return f(0, 0, text1, text2, dp);
+        reverse (s.begin(),s.end());    // reverse the string as we started from last
+        cout<<s;
+        return dp[n][m];
     }
 };
