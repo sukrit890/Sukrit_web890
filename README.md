@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sukrit890/Sukrit_web890/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sukrit890/Sukrit_web890/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/sukrit890/Sukrit_web890/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
