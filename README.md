@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sukrit890/Sukrit_web890/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sukrit890/Sukrit_web890/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sukrit890/Sukrit_web890/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sukrit890/Sukrit_web890/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0518-coin-change-ii) |
