@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sukrit890/Sukrit_web890/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sukrit890/Sukrit_web890/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sukrit890/Sukrit_web890/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
 ## Math
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0300-longest-increasing-subsequence) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
