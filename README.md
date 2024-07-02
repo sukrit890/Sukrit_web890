@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sukrit890/Sukrit_web890/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sukrit890/Sukrit_web890/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
@@ -533,5 +536,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/sukrit890/Sukrit_web890/tree/master/1197-parsing-a-boolean-expression) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
