@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -484,9 +485,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
 <!---LeetCode Topics End-->
