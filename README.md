@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
