@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sukrit890/Sukrit_web890/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/sukrit890/Sukrit_web890/tree/master/0368-largest-divisible-subset) |
 ## Combinatorics
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sukrit890/Sukrit_web890/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0206-reverse-linked-list) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sukrit890/Sukrit_web890/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0237-delete-node-in-a-linked-list) |
