@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sukrit890/Sukrit_web890/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/0072-edit-distance) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sukrit890/Sukrit_web890/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukrit890/Sukrit_web890/tree/master/0160-intersection-of-two-linked-lists) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sukrit890/Sukrit_web890/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
