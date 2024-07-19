@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sukrit890/Sukrit_web890/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukrit890/Sukrit_web890/tree/master/0160-intersection-of-two-linked-lists) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
 ## Binary Indexed Tree
 |  |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
 |  |
 | ------- |
