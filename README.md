@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -618,9 +619,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
