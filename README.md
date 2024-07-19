@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/sukrit890/Sukrit_web890/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sukrit890/Sukrit_web890/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukrit890/Sukrit_web890/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0287-find-the-duplicate-number) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sukrit890/Sukrit_web890/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukrit890/Sukrit_web890/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
@@ -629,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
