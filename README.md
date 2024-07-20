@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/sukrit890/Sukrit_web890/tree/master/0368-largest-divisible-subset) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sukrit890/Sukrit_web890/tree/master/2379-maximum-total-importance-of-roads) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/sukrit890/Sukrit_web890/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sukrit890/Sukrit_web890/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sukrit890/Sukrit_web890/tree/master/0160-intersection-of-two-linked-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2444-longest-ideal-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/2444-longest-ideal-subsequence) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Doubly-Linked List
 |  |
