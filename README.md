@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/sukrit890/Sukrit_web890/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
@@ -624,15 +625,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Doubly-Linked List
 |  |
