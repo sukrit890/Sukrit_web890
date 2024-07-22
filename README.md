@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sukrit890/Sukrit_web890/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sukrit890/Sukrit_web890/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sukrit890/Sukrit_web890/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/sukrit890/Sukrit_web890/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/sukrit890/Sukrit_web890/tree/master/0583-delete-operation-for-two-strings) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sukrit890/Sukrit_web890/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sukrit890/Sukrit_web890/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -701,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sukrit890/Sukrit_web890/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
