@@ -11,38 +11,34 @@
  */
 class Solution {
 public:
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        unordered_map<int,int>mp;
+        for(int i = 0; i  < inorder.size(); i++){
+            mp[inorder[i]] = i;
+        }
 
-// finding the position of current root in inorder array
-int findPos(int x, vector<int>& inorder){
-    int index =-1;
-    for(int i=0;i<inorder.size();i++){
-        if(inorder[i]==x) return i;
-    }
-    return index;
-}
-    TreeNode* createTree(int start , int end , int& index , vector<int>& preorder, vector<int>& inorder){
-        
-        // base cases
-        if(start > end ) return NULL;
-        if(index >= preorder.size()) return NULL;
+        int n = preorder.size();
+        int m = inorder.size();
 
-        // creating a root
-        TreeNode* root = new TreeNode(preorder[index]);
-        
-        // finding the root node in inorder traversal 
-        int find = findPos(preorder[index],inorder);
-        index++;
+        TreeNode* root = build(preorder, 0, n-1, inorder, 0, m-1, mp);
 
-        // root ->left child will always be on left in inorder array
-        root->left  = createTree(start,find-1,index,preorder,inorder);
-         // root ->right child will always be on right on inorder array 
-        root->right = createTree(find+1,end,index,preorder,inorder);
         return root;
     }
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int start = 0;
-        int end   = preorder.size()-1;
-        int index = 0;
-        return createTree(start, end, index, preorder, inorder);
+
+    TreeNode* build(vector<int>& preorder, int preStart, int preEnd, vector<int> &inorder, int inStart, int inEnd, unordered_map<int,int> &mp){
+
+        if(preStart>preEnd || inStart>inEnd){
+            return nullptr;
+        }
+
+        TreeNode* root = new TreeNode(preorder[preStart]);
+
+        int inRoot = mp[root->val];
+        int numLeft = inRoot  - inStart;
+
+        root->left = build(preorder, preStart + 1, preStart + numLeft, inorder, inStart, inRoot - 1, mp);
+        root->right = build(preorder, preStart + numLeft + 1, preEnd, inorder, inRoot + 1, inEnd, mp);
+
+        return root;
     }
 };
