@@ -9,17 +9,43 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void inorderHelper(TreeNode* node, vector<int>& result) {
-        if (node == NULL) return;
-        inorderHelper(node->left, result);  // Traverse left subtree
-        result.push_back(node->val); 
-        inorderHelper(node->right, result); // Traverse right subtree
-    }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> result;
-        inorderHelper(root, result);
-        return result;
+        vector<int>morrisInorder;
+        TreeNode*curr=root;
+        while(curr!=NULL){
+            if(curr->left==NULL){
+                morrisInorder.push_back(curr->val);
+                curr=curr->right;
+            }
+            else{
+                TreeNode* pred=curr->left;
+                while(pred->right!=NULL && pred->right!=curr){
+                    pred=pred->right;
+                }
+                if(pred->right==NULL){
+                    pred->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    pred->right=NULL;
+                    morrisInorder.push_back(curr->val);
+                    curr=curr->right;
+                }
+            }
+        }
+        return morrisInorder;
     }
 };
