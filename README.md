@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sukrit890/Sukrit_web890/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/sukrit890/Sukrit_web890/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2573-remove-nodes-from-linked-list) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/sukrit890/Sukrit_web890/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sukrit890/Sukrit_web890/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/sukrit890/Sukrit_web890/tree/master/2384-root-equals-sum-of-children) |
 ## Doubly-Linked List
@@ -761,4 +766,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sukrit890/Sukrit_web890/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
