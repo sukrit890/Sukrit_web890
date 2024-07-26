@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sukrit890/Sukrit_web890/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sukrit890/Sukrit_web890/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sukrit890/Sukrit_web890/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/sukrit890/Sukrit_web890/tree/master/1197-parsing-a-boolean-expression) |
+| [1552-build-an-array-with-stack-operations](https://github.com/sukrit890/Sukrit_web890/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -788,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sukrit890/Sukrit_web890/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/sukrit890/Sukrit_web890/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
