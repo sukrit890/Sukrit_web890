@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sukrit890/Sukrit_web890/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-design-circular-queue](https://github.com/sukrit890/Sukrit_web890/tree/master/0860-design-circular-queue) |
 | [0967-minimum-falling-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/sukrit890/Sukrit_web890/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sukrit890/Sukrit_web890/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0838-design-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/sukrit890/Sukrit_web890/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sukrit890/Sukrit_web890/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/sukrit890/Sukrit_web890/tree/master/0860-design-circular-queue) |
 ## Simulation
 |  |
 | ------- |
