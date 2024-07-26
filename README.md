@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sukrit890/Sukrit_web890/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sukrit890/Sukrit_web890/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0062-unique-paths) |
+| [0224-basic-calculator](https://github.com/sukrit890/Sukrit_web890/tree/master/0224-basic-calculator) |
 | [0368-largest-divisible-subset](https://github.com/sukrit890/Sukrit_web890/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/sukrit890/Sukrit_web890/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sukrit890/Sukrit_web890/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sukrit890/Sukrit_web890/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0132-palindrome-partitioning-ii) |
+| [0224-basic-calculator](https://github.com/sukrit890/Sukrit_web890/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sukrit890/Sukrit_web890/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/0516-longest-palindromic-subsequence) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sukrit890/Sukrit_web890/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sukrit890/Sukrit_web890/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sukrit890/Sukrit_web890/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/sukrit890/Sukrit_web890/tree/master/1197-parsing-a-boolean-expression) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/2573-remove-nodes-from-linked-list) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sukrit890/Sukrit_web890/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sukrit890/Sukrit_web890/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/sukrit890/Sukrit_web890/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sukrit890/Sukrit_web890/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
