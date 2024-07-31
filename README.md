@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sukrit890/Sukrit_web890/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
+| [1196-filling-bookcase-shelves](https://github.com/sukrit890/Sukrit_web890/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sukrit890/Sukrit_web890/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/sukrit890/Sukrit_web890/tree/master/1582-design-browser-history) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sukrit890/Sukrit_web890/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1170-shortest-common-supersequence) |
+| [1196-filling-bookcase-shelves](https://github.com/sukrit890/Sukrit_web890/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/sukrit890/Sukrit_web890/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sukrit890/Sukrit_web890/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sukrit890/Sukrit_web890/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
