@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sukrit890/Sukrit_web890/tree/master/0085-maximal-rectangle) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/sukrit890/Sukrit_web890/tree/master/0494-target-sum) |
 ## String
