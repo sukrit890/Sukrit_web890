@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0063-unique-paths-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sukrit890/Sukrit_web890/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/sukrit890/Sukrit_web890/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sukrit890/Sukrit_web890/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sukrit890/Sukrit_web890/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sukrit890/Sukrit_web890/tree/master/0141-linked-list-cycle) |
