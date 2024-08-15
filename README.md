@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sukrit890/Sukrit_web890/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sukrit890/Sukrit_web890/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sukrit890/Sukrit_web890/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/sukrit890/Sukrit_web890/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/sukrit890/Sukrit_web890/tree/master/0224-basic-calculator) |
 | [0368-largest-divisible-subset](https://github.com/sukrit890/Sukrit_web890/tree/master/0368-largest-divisible-subset) |
