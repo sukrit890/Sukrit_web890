@@ -826,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/sukrit890/Sukrit_web890/tree/master/1552-build-an-array-with-stack-operations) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sukrit890/Sukrit_web890/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
