@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/sukrit890/Sukrit_web890/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/sukrit890/Sukrit_web890/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/sukrit890/Sukrit_web890/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/sukrit890/Sukrit_web890/tree/master/1258-article-views-i) |
