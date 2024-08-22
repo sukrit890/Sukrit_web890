@@ -836,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/sukrit890/Sukrit_web890/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/sukrit890/Sukrit_web890/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/sukrit890/Sukrit_web890/tree/master/1161-project-employees-i) |
+| [1182-game-play-analysis-iv](https://github.com/sukrit890/Sukrit_web890/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/sukrit890/Sukrit_web890/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/sukrit890/Sukrit_web890/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/sukrit890/Sukrit_web890/tree/master/1415-students-and-examinations) |
